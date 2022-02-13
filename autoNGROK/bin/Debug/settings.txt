@@ -1,0 +1,2 @@
+token: 1t2McfGAZbCaFtRvUZZCDK7kdOY_2Zn36nynvNQLfX5w9cvzs
+webhook: https://discord.com/api/webhooks/847518415169519656/-DZkTn6zUTm61IbzubwPGfBHXGhkKQe4N_CZOxuz2Mj4Igx7oIykUz6p-_vXr8egLnjo
